@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @hathoriastro
+👋 Hi, I’m A. Hathori Astro
+
+I'm a second year Computer Engineering student in Brawijaya University.
 
 <!---
 hathoriastro/hathoriastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
